@@ -320,10 +320,9 @@ Based on the project findings:
 ```text
 Churn-Analysis/
 │
-├── churn_analysis.ipynb
 ├── exported_churn_data.csv
 ├── test_database.sqlite
-├── churn_analysis.pdf
+├── churn_analysis.ipynb
 └── README.md
 ```
 
